@@ -20,5 +20,5 @@ sh chn_install.sh
 To install a sensor:
 
 ```bash
-cd /sensors/{sensor_to_install} sh install.sh
+cd /sensors/{sensor_to_install} && sh install.sh
 ```
