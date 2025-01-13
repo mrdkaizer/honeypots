@@ -4,8 +4,14 @@ First install docker:
 sh install_docker.sh
 ```
 
-The install the chn server:
+It's a good idea to reboot the syste:
 
+
+```bash
+reboot
+```
+
+The install the chn server:
 
 ```bash
 sh chn_install.sh
