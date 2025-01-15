@@ -4,7 +4,7 @@ First install docker:
 sh install_docker.sh
 ```
 
-It's a good idea to reboot the syste:
+It's a good idea to reboot the system:
 
 
 ```bash
